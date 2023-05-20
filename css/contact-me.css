@@ -1,0 +1,47 @@
+.footer {
+  background: linear-gradient(180deg, #18365a, #1c3e68ce);
+  padding: 20px;
+  color: white;
+  text-align: center;
+
+  height: 55px;
+  overflow: hidden;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-envelope {
+  margin-right: 10px;
+  position: relative;
+  right: 3px;
+  top: 1px;
+}
+
+
+.email-address {
+  font-weight: bold;
+}
+
+.copyright {
+  margin-top: 10px;
+}
+.experiences {
+  padding-bottom: 50px;
+}
+.tab-3 {
+  overflow-x: hidden;
+}
+@media only screen and (max-width: 623px) {
+    .experiences{
+        padding-bottom: 150px;
+    }
+  .footer {
+    position: relative;
+   
+  }
+  
+}
