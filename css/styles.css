@@ -49,7 +49,6 @@ body {
   height: 100vh;
   width: 60vw;
 }
-
 .title-text {
   font-size: 2vw;
 }
@@ -173,6 +172,12 @@ body.sticky-nav {
 }
 .aboutMe-p {
   color: gray;
+}
+.aboutMe-p.reveal{
+  opacity: 0;
+}
+.aboutMe-p.reveal.active{
+  opacity: 1;
 }
 /**PAST SECTION**************/
 
