@@ -261,6 +261,9 @@
     height: 11px;
     width: 30px;
   }
+  .smaller{
+    font-size: 12px;
+  }
 }
 @media screen and (min-width: 768px) {
   .swiper-wrapper {
