@@ -1,14 +1,16 @@
 /* icon: https://fortawesome.github.io/Font-Awesome/icons/ */
-/* Animation: https://daneden.github.io/animate.css/ */
+
 
 .arrow-container {
   position: absolute;
   left: 50%;
+
   top: 90vh;
   transform: translateX(-50%, -50%);
 }
 
 .arrow {
+  font-size: 1.5em;
   text-align: center;
   margin: 8% 0;
 }
