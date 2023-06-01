@@ -139,6 +139,10 @@
 @media screen and (max-height: 500px) and (min-width: 992px) {
   .blog-slider__img {
     height: 270px;
+    
+  }
+  .blog-slider-RAEE{
+    font-size: 8px;
   }
 }
 .blog-slider__content {
@@ -274,3 +278,5 @@
     row-gap: 10px;
   }
 }
+
+
