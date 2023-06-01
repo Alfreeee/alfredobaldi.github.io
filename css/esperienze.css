@@ -141,9 +141,7 @@
     height: 270px;
     
   }
-  .blog-slider-RAEE{
-    font-size: 8px;
-  }
+
 }
 .blog-slider__content {
   padding-right: 25px;
@@ -279,4 +277,8 @@
   }
 }
 
-
+@media only screen and (max-width: 992px) and (min-width: 550px){
+    .blog-slider-RAEE{
+    font-size: 8px;
+  }
+}
